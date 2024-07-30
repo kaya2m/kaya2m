@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaya2m&label=Profile%20views&color=0e75b6&style=flat" alt="kaya2m" /> </p>
 
 
-- 🔭 I’m currently working on [Camply_API](https://github.com/kaya2m/TheCamply_API)
+- 🔭 I’m currently working on [proDuck ERP](https://github.com/kaya2m/proDuck_ERP)
 
 - 🌱 I’m currently learning **Angular, TypeScript**
 
