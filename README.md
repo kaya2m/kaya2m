@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaya2m&label=Profile%20views&color=0e75b6&style=flat" alt="kaya2m" /> </p>
 
 
-- 🔭 I’m currently working on [proDuck ERP](https://github.com/kaya2m/proDuck_ERP)
+- 🔭 I’m currently working on [ignisfer](https://ignisfer.com/)
 
-- 🌱 I’m currently learning **Angular, TypeScript**
-
-- 👯 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaya2m](https://github.com/kaya2m)
 
@@ -16,7 +14,7 @@
 
 - 📫 How to reach me **mkaya349@hotmail.com**
 
-- 📄 Know about my experiences [http://muhammetkaya.000.pe/?i=1#](http://muhammetkaya.000.pe/?i=1#)
+- 📄 Know about my experiences [Personal Site](https://muhammetkaya.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
